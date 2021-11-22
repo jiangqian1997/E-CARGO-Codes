@@ -2,7 +2,8 @@
 
  * This program is to achieve Equation (8) in the paper named "Agent Evaluation in Deployment of Multi-SUAVs for Communication Recovery".  
  
- * Created by Qian Jiang and Zhiwei He, Jan 7, 2020
+ * Created by Qian Jiang, Zhiwei He, and Guanheng Huang Jan 7, 2020
+ 
 
 '''
 
